@@ -1,0 +1,41 @@
+h1 {
+  font-size: 65px;
+  text-decoration: underline;
+  background-color: grey;
+}
+#linkdin {
+  text-decoration: none;
+  color: black;
+}
+h2 {
+  font-size: 35px;
+}
+#name {
+  text-decoration: none;
+  font-size: 35px;
+}
+span {
+  text-decoration: underline;
+  font-size: 35px;
+}
+#add {
+  text-decoration: none;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 18px;
+}
+
+#objective {
+  font-size: 18px;
+}
+hr {
+  border-top: 2px dashed black;
+}
+#btech {
+  font-size: 18px;
+}
+.text-lg {
+  font-size: 18px;
+}
+.personalli {
+  font-size: 18px;
+}
